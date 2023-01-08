@@ -4,7 +4,9 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
-
+/* * {
+  outline: 1px solid limegreen !important;
+} */
 a {
   text-decoration: none;
   color: black;
