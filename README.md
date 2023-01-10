@@ -15,12 +15,12 @@ Thanks for checking out this Application.
 
 ### Built with
 
--React Js
--Material UI 5
--JavaScript
--Semantic HTML5 markup
--CSS custom properties
--Flexbox
+- React Js
+- Material UI 5
+- JavaScript
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
 
 
 ## Author
